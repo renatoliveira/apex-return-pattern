@@ -1,6 +1,6 @@
-# Return Pattern (in Apex)
+# Result Pattern (in Apex)
 
-This repository contains the base classes for the implementation of the Return Pattern, as seen in some C# examples, such as the [blog post by Milan Jovanović](https://www.milanjovanovic.tech/blog/functional-error-handling-in-dotnet-with-the-result-pattern).
+This repository contains the base classes for the implementation of the Result Pattern, as seen in some C# examples, such as the [blog post by Milan Jovanović](https://www.milanjovanovic.tech/blog/functional-error-handling-in-dotnet-with-the-result-pattern).
 
 ## Usage
 
